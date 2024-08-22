@@ -20,3 +20,7 @@
     {
       "key": "value"
     }
+
+[[details-open|Título de la sección]]
+  Contenido de la sección
+[[/details-open]]
