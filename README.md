@@ -1,37 +1,27 @@
-- # Sección 1
-- ## Subsección 1.1
-- ### Descripción de la subsección 1.1
-
-* Elemento 1
-* Elemento 2
-
----
-
-- ## Subsección 1.2
-- ### Descripción de la subsección 1.2
- - Elemento 3
- - Elemento 4
-
+# INGLES
 <details>
-<summary>Titulo</summary>
-# Titulo 1
-- lista
-- lista2
-- lista3
+<summary>TIEMPOS VERBALES</summary>
 
-- # Sección 1
-- ## Subsección 1.1
-- ### Descripción de la subsección 1.1
+ <details>
+<summary>PRESENTE</summary>
 
-* Elemento 1
-* Elemento 2
+  - PRESENTE SIMPLE
+  - PRESENTE CONTINUO
+  - PRESENTE PERFECTO SIMPLE
+  - PRESENTE PERFECTO CONTINUO
 
+  
+ </details>
 ---
-
-- ## Subsección 1.2
-- ### Descripción de la subsección 1.2
- - Elemento 3
- - Elemento 4
-
-
+  <details>
+<summary>PASADO</summary>
+  
+ </details>
+---
+  <details>
+<summary>FUTURO</summary>
+  
+ </details>
+ ---
+ 
 </details>
