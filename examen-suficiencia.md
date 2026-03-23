@@ -1,0 +1,42 @@
+- Sinonimos y antonimos
+- Referentes
+  - TIPOS DE REFERENCIA
+    - TEXTUAL
+      - ENDOFORICA
+        - CATAFORICA(ANTES)
+        - 
+        - ANAFORICA(DESPUES)
+    - SITUACIONAL
+      - EXOFORICA
+        - EL AUTOR
+        - EL LECTOR
+        - EL AUTOR,EL LECTOR(ambos)
+- Nexos
+  - AGREGADO
+  - CAUSA-EFECTO
+    - CAUSA
+    - EFECTO
+  - CONDICION
+  - SECUENCIA DE TIEMPO
+  - CONTRASTE
+  - EJEMPLIFICACION
+  - INTENCION,FINALIDAD
+  - RESUMEN,CONCLUSION
+  - ALTERNANCIA
+  - REPETICION O ENFASIS
+  - ACLARACION
+- Verdadero o falso
+- Funciones comunicativas(pensar cual es su intencion,pensar caracteristica)
+  - CLASIFICACION
+  - COMPARACION
+  - DEFINICION
+  - NARRACION
+  - DESCRIPCION
+  - ARGUMENTACION
+- Cloze
+- Dificultades especiales
+  - Caso especial
+  - 4 traducciones posibles a elegir
+  - Referentes Cataforicos
+    - El referente que se encuentra despues
+      - Ejemplo "it"de anticipacion
