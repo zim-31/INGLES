@@ -2,20 +2,50 @@
 - Referentes
   - TIPOS DE REFERENCIA
     - TEXTUAL
-      - ENDOFORICA
+      - ENDOFORICA(dentro del texto)
         - CATAFORICA(ANTES)
         - 
         - ANAFORICA(DESPUES)
+      - IT (El referente que se encuentra despues)(CASO ESPECIAL)
+        - Ejemplo "it"de anticipacion
     - SITUACIONAL
-      - EXOFORICA
+      - EXOFORICA(fuera del texto)
         - EL AUTOR
         - EL LECTOR
         - EL AUTOR,EL LECTOR(ambos)
+
 - Nexos
   - AGREGADO
+    - in addion (to), en adición (a)
+    - besides, ademas
+    - moreover, ademas
+    - furthermore, ademas
+    - both … and, ambos ... y
+    - as well as, así como
+    - (and) also, (y) tambien
+    - apart from, aparte de
+    - aside from, aparte de
+    - along with, junto con
   - CAUSA-EFECTO
     - CAUSA
+      - because, porque
+      - because of, debido a
+      - due to,debido a
+      - owing to, debido a
+      - [since], desde
+      - [as], como
+      - for, para
+      - in view of, en vista de
+      - on accont of, a causa de
     - EFECTO
+      - so, entonces
+      - therefore, por lo tanto
+      - hence, por eso
+      - thus, asi
+      - [then], entonces
+      - for this reason, por esta razon
+      - as a result, como resultado
+      - 
   - CONDICION
   - SECUENCIA DE TIEMPO
   - CONTRASTE
@@ -27,9 +57,73 @@
   - ACLARACION
 - Verdadero o falso
 - Funciones comunicativas(pensar cual es su intencion,pensar caracteristica)
-  - CLASIFICACION
-  - COMPARACION
-  - DEFINICION
+  - CLASIFICACION(La separacion de objetos, divide las cosas)
+      - Can be divided into
+        - se puede dividir en
+      - is made up of
+        - se compone de
+      - is of
+        - es de
+      - has
+        - ?
+      - includes
+        - incluye
+      - is composed of
+        - esta compuesto de
+      - comprises
+        - comprende
+      - consists of may or
+        - consiste en puede o
+      - can be classified as( as = como)
+        - se puede clasificar como
+      - consitute
+        - constituir
+      - make up
+        - ?
+      - form
+        - forma
+  - COMPARACION (se fija en dos o mas cosas y las compara)
+    - as...as
+      - como...como
+    - are similar
+      - son similares
+    - equal to
+      - igual a
+    - both
+      - ambos
+    - like
+      - como
+    - similarly
+      - similarmente
+    - compare to
+      - comparar con
+    - similar to
+      - similar a
+    - the same
+      - lo mismo
+  - DEFINICION (responde que es x)
+    - is
+      - es
+    - means
+      - significa
+    - is taken to be
+      - se toma como
+    - denotes
+      - denota
+    - refers to
+      - se refiere a
+    - is defined as
+      - se define como
+    - is known as
+      - se conoce como
+    - by...we mean
+      - por...queremos decir
+    - by...is meant
+      - por...se entiende
+    - in other words
+      - en otras palabras
+    - that is to say
+      - es decir
   - NARRACION
   - DESCRIPCION
   - ARGUMENTACION
@@ -37,6 +131,3 @@
 - Dificultades especiales
   - Caso especial
   - 4 traducciones posibles a elegir
-  - Referentes Cataforicos
-    - El referente que se encuentra despues
-      - Ejemplo "it"de anticipacion
